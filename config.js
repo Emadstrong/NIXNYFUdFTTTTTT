@@ -1,18 +1,18 @@
 module.exports = {
   bot: {
-    owners: [""],  // ايدي الاونر
-    botID: "",    // ايدي البوت
-    GuildId: "",   // ايدي السيرفير
-    ClientId: "",    // ايدي البوت
-    serverinvte: "", // انفايت سيرفر
+    owners: ["1193634767137149059"],  // ايدي الاونر
+    botID: "1213797890762342430",    // ايدي البوت
+    GuildId: "1213797207770406963",   // ايدي السيرفير
+    ClientId: "1213797890762342430",    // ايدي البوت
+    serverinvte: "https://discord.gg/vcSCQR2Jz7", // انفايت سيرفر
     clientSECRET: process.env.client , // سكريت
     callbackURL: "/login", // الكال باك
     inviteBotUrl: "https://discord.com/oauth2/authorize?client_id=1213797890762342430&permissions=8&scope=bot",// انفايت البوت
     TheLinkVerfy : '', // رابط اوثو رايز بالصلاحيه ادخال الي سيرفرات
     prefix : '$', 
-    ceatogry : '', // كاتوجري الي يفتح فيها تكت شراء
+    ceatogry : '1213804413693591593', // كاتوجري الي يفتح فيها تكت شراء
      TOKEN: (process.env.midd),// توكن 
-    Price: 1000,    // سعر العضو الواحد
+    Price: 900,    // سعر العضو الواحد
     TraId  : '1193634767137149059' // ايدي الي يتحوله كريديت
   },
   website: {
